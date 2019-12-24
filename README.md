@@ -66,13 +66,14 @@ As in the past, a small percentage of your assignment grade will be based on how
 1. Classification Accuracy & Running time as a function of parameters
 
 
-![alt text](https://github.iu.edu/cs-b551-fa2019/dtalreja-vbmaigur-srmanj-a4/blob/master/imgs/nets2.jpeg)
+![alt text](https://github.com/smanj2/Machine-Learning-Algorithms-From-Scratch/blob/master/imgs/nets2.jpeg)
+
 
 
 2. How does the performance vary depending on the training dataset size, i.e. if you use just a fraction of the training data?
 
 
-![alt text](https://github.iu.edu/cs-b551-fa2019/dtalreja-vbmaigur-srmanj-a4/blob/master/imgs/knn.jpg)
+![alt text](https://github.com/smanj2/Machine-Learning-Algorithms-From-Scratch/blob/master/imgs/knn.jpg)
 
 
 #### Model 2 - Neural Nets
@@ -81,17 +82,17 @@ As in the past, a small percentage of your assignment grade will be based on how
 
 The accuracies obtained below are from use a sigmoid activation function, however the same implementation was executed with Relu where slightly better results were observed. The image below provides the statistics related to Neural Nets
 
-![alt text](https://github.iu.edu/cs-b551-fa2019/dtalreja-vbmaigur-srmanj-a4/blob/master/imgs/nets1.jpeg)
+![alt text](https://github.com/smanj2/Machine-Learning-Algorithms-From-Scratch/blob/master/imgs/nets1.jpeg)
 
 
 2. How does the performance vary depending on the training dataset size, i.e. if you use just a fraction of the training data?
 
 
-![alt text](https://github.iu.edu/cs-b551-fa2019/dtalreja-vbmaigur-srmanj-a4/blob/master/imgs/nnets3.jpeg)
+![alt text](https://github.com/smanj2/Machine-Learning-Algorithms-From-Scratch/blob/master/imgs/nnets3.jpeg)
 
 #### Model 3 - Decision Trees
 1. Classification Accuracy & Running time as a function of parameters
-![alt text](https://github.iu.edu/cs-b551-fa2019/dtalreja-vbmaigur-srmanj-a4/blob/master/imgs/decision_trees.jpg)
+![alt text](https://github.com/smanj2/Machine-Learning-Algorithms-From-Scratch/blob/master/imgs/decision_trees.jpg)
 
 
 2. How does the performance vary depending on the training dataset size, i.e. if you use just a fraction of the training data?
@@ -105,12 +106,12 @@ Using 25% of the training data decreased the model accuracy by 5%. This is expec
  
 2. Here are a few examples of correct and incorrect classifications from one of the above algorithms
 
-![alt text](https://github.iu.edu/cs-b551-fa2019/dtalreja-vbmaigur-srmanj-a4/blob/master/imgs/overall.jpeg)
+![alt text](https://github.com/smanj2/Machine-Learning-Algorithms-From-Scratch/blob/master/imgs/overall.jpeg)
 
 Additionally, here is a summary table that explains the split between true and false classifiations over the entire dataset
 
 
-![alt text](https://github.iu.edu/cs-b551-fa2019/dtalreja-vbmaigur-srmanj-a4/blob/master/imgs/summary.jpg)
+![alt text](https://github.com/smanj2/Machine-Learning-Algorithms-From-Scratch/blob/master/imgs/summary.jpg)
 
 #### References:
 
